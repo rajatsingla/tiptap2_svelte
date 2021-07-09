@@ -1,0 +1,3 @@
+[submodule "design_assets"]
+	path = design_assets
+	url = git@bitbucket.org:scrolldev/design_assets.git
